@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-471-3a-current-sensor-module-gy-471-max471-3a",
+  "title": "gy-471-3a-current-sensor-module-gy-471-max471-3a",
+  "keywords": "gy-471-3a-current-sensor-module-gy-471-max471-3a, esp32, esp8266, arduino",
+  "description": "gy-471-3a-current-sensor-module-gy-471-max471-3a plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-471-3a-current-sensor-module-gy-471-max471-3a/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-471-3a-current-sensor-module-gy-471-max471-3a/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
